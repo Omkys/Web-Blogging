@@ -74,14 +74,14 @@ Follow these steps to set up and run the project locally:
     **Start the Backend Server:**
     From the `backend` directory:
     ```bash
-    npm start
+    node server.js
     ```
     The backend server will typically run on `http://localhost:5000` (or another port if configured).
 
     **Start the Frontend Development Server:**
     From the `frontend` directory:
     ```bash
-    npm start
+    npm run dev
     ```
     The frontend application will typically open in your browser at `http://localhost:3000`.
 
